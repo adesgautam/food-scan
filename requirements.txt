@@ -1,0 +1,15 @@
+dj-database-url==0.4.2
+Django==1.9.7
+gunicorn==19.6.0
+psycopg2==2.6.2
+whitenoise==3.2
+django-crispy-forms==1.6.1
+h5py==2.7.0
+Keras==2.0.4
+numpy==1.12.1
+Pillow==4.1.1
+scikit-learn==0.18.1
+tensorflow==1.2.0
+djangorestframework==3.6.3
+beautifulsoup4==4.6.0
+lxml==3.7.3

@@ -2,4 +2,4 @@ venv
 *.pyc
 staticfiles
 .env
-.h5
+*.h5

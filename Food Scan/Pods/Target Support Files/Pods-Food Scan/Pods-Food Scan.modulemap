@@ -1,0 +1,6 @@
+framework module Pods_Food_Scan {
+  umbrella header "Pods-Food Scan-umbrella.h"
+
+  export *
+  module * { export * }
+}
